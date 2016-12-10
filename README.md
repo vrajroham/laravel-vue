@@ -1,2 +1,2 @@
 # laravel-vue
-Laravel+VUE+AdminLTE
+Laravel 5.3+VUE+AdminLTE
